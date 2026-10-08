@@ -1,5 +1,3 @@
-# ASAR_MH_SGO_Dashboard
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
